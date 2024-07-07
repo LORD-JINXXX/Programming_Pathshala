@@ -26,7 +26,6 @@ To get a local copy up and running follow these simple steps.
 ## Usage
 
 To start the development server, run:
-      ```sh
       npm run dev
 Open http://localhost:3000 with your browser to see the result.
 
